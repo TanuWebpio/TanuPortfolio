@@ -1,0 +1,133 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'poppins' , sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    color: #ededed;
+    background:#081b29;
+}
+.heading1{
+    text-align: center;
+    text-decoration: underline;
+    color: #0ef;
+    font-size: 3rem;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 5px;
+    margin-bottom: 50px;
+}
+
+.bank p{
+    color:#0ef;
+    font-size: 1.5rem;
+    line-height: 1.0;
+    text-align: center;
+    display: contents;
+}
+.viewbox{
+    border-color: black;
+    width: 50%;
+    height: 1.2%;
+}
+.row{
+    display: inline;
+}
+.row h3{
+    text-align: center;
+    font-size: 2rem;
+    height: 2%;
+    text-decoration: underline;
+    color: #0ef;
+}
+.row h3:hover{
+    transform: scale(1.2);
+}
+.row img{
+    display: center;
+     width: 40%;
+    height: 10%;
+}
+.row:hover img{
+    transform: scale(1.1);
+}
+.code{
+    text-align: center;
+    font-size: 2rem;
+    font-display: 20px;
+}
+.code:hover{
+    transform: scale(1.2);
+}
+/* .chatting {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, mimmax(359px, auto));
+} */
+.chatting p{
+    color:#0ef;
+    font-size: 1.5rem;
+    line-height: 1.0;
+    text-align: center;
+    display: contents;  
+}
+.heading2{
+    text-align: center;
+    text-decoration: underline;
+    color: #0ef;
+    font-size: 3rem;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 5px;
+    margin-bottom: 50px;
+}
+.row2{
+    display: inline;
+}
+.row2 h3{
+    text-align: center;
+    font-size: 2rem;
+    height: 2%;
+    text-decoration: underline;
+    color: #0ef;
+}
+.row2 h3:hover{
+    transform: scale(1.2);
+}
+.row2 img{
+    width: 25%;
+    height: 33%;
+}
+.row2:hover img{
+    transform: scale(1.1);
+}
+.row3 h3{
+    text-align: center;
+    font-size: 2rem;
+    height: 4%;
+    text-decoration: underline;
+    color: #0ef;
+}
+.row3 h3:hover{
+    transform: scale(1.2);
+}
+.row3 img{
+    width: 50%;
+    height: 50%;
+}
+.video{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.heading2{
+    text-align: center;
+    text-decoration: underline;
+    color: #0ef;
+    font-size: 2rem;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 5px;
+    margin-bottom: 50px;
+}
